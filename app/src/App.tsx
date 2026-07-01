@@ -224,8 +224,8 @@ const contactItems = [
   {
     icon: 'email',
     label: 'Email',
-    value: 'dev.wajahath@gmail.com',
-    href: 'mailto:dev.wajahath@gmail.com',
+    value: 'wajahat.career@gmail.com',
+    href: 'mailto:wajahat.career@gmail.com',
   },
   {
     icon: 'phone',
@@ -243,7 +243,7 @@ const contactItems = [
     icon: 'location',
     label: 'Location',
     value: 'Berlin, Germany',
-    href: 'https://maps.google.com/?q=Berlin,Germany',
+    href: 'https://www.google.com/maps/place/Rudolf-Reusch-Stra%C3%9Fe+32,+10367+Bezirk+Lichtenberg/@52.5172865,13.4801962,17z/data=!3m1!4b1!4m6!3m5!1s0x47a84e9206eab99b:0xa636a02e2e63f5e8!8m2!3d52.5172833!4d13.4827711!16s%2Fg%2F11c217rdnf?entry=ttu&g_ep=EgoyMDI2MDYyOC4wIKXMDSoASAFQAw%3D%3D',
   },
 ]
 
